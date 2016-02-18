@@ -1,0 +1,10 @@
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\Huuuuuu.exe.config
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\Huuuuuu.exe
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\Huuuuuu.pdb
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\EloBuddy.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\EloBuddy.SDK.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\SharpDX.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Release\Newtonsoft.Json.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\obj\Release\Huuuuuu.exe
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\obj\Release\Huuuuuu.pdb

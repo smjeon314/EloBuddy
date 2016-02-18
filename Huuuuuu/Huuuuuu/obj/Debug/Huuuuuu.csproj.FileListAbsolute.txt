@@ -1,0 +1,11 @@
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\Huuuuuu.exe.config
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\Huuuuuu.exe
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\Huuuuuu.pdb
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\EloBuddy.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\EloBuddy.SDK.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\SharpDX.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\obj\Debug\Huuuuuu.exe
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\obj\Debug\Huuuuuu.pdb
+C:\Users\SM\Desktop\Huuuuuu\Huuuuuu\obj\Debug\Huuuuuu.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\SimpleSkin.exe.config
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\obj\Debug\SimpleSkin.csprojResolveAssemblyReference.cache
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\SimpleSkin.exe
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\SimpleSkin.pdb
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\EloBuddy.dll
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\EloBuddy.SDK.dll
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\SharpDX.dll
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\obj\Debug\SimpleSkin.exe
+C:\Users\SM\Desktop\SimpleSkin\SimpleSkin\obj\Debug\SimpleSkin.pdb

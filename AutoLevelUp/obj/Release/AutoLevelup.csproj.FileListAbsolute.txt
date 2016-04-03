@@ -11,3 +11,16 @@ C:\Users\SM\Desktop\AutoLevelUp-master\bin\Release\SharpDX.XInput.dll
 C:\Users\SM\Desktop\AutoLevelUp-master\obj\Release\AutoLevelup.csprojResolveAssemblyReference.cache
 C:\Users\SM\Desktop\AutoLevelUp-master\obj\Release\AutoLevelup.exe
 C:\Users\SM\Desktop\AutoLevelUp-master\obj\Release\AutoLevelup.pdb
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\obj\Release\AutoLevelup.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\obj\Release\AutoLevelup.exe
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\obj\Release\AutoLevelup.pdb
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\AutoLevelup.exe.config
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\AutoLevelup.exe
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\AutoLevelup.pdb
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\EloBuddy.dll
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\EloBuddy.SDK.dll
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\Newtonsoft.Json.dll
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\SharpDX.dll
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\SharpDX.XInput.dll

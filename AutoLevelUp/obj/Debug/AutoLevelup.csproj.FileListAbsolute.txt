@@ -23,3 +23,9 @@ C:\Users\SM\Desktop\AutoLevelUp-master\bin\Release\SharpDX.Direct3D9.dll
 C:\Users\SM\Desktop\AutoLevelUp-master\bin\Release\SharpDX.dll
 C:\Users\SM\Desktop\AutoLevelUp-master\bin\Release\SharpDX.XInput.dll
 C:\Users\SM\Desktop\AutoLevelUp-master\obj\Debug\AutoLevelup.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\AutoLevelup.exe.config
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\obj\Debug\AutoLevelup.exe
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\obj\Debug\AutoLevelup.pdb
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\AutoLevelup.exe
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\bin\Release\AutoLevelup.pdb
+C:\Users\SM\Documents\GitHub\EloBuddy\AutoLevelUp\obj\Debug\AutoLevelup.csprojResolveAssemblyReference.cache

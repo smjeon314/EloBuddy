@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // È possibile specificare tutti i valori oppure impostare valori predefiniti per i numeri relativi alla revisione e alla build 
 // utilizzando l'asterisco (*) come descritto di seguito:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2016.4.2.218")]
-[assembly: AssemblyFileVersion("2016.4.2.218")]
+[assembly: AssemblyVersion("2016.4.3.512")]
+[assembly: AssemblyFileVersion("2016.4.3.512")]
